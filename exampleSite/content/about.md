@@ -1,6 +1,7 @@
 ---
 title: 'About'
 date: 2018-02-22T17:01:34+07:00
+draft: True
 ---
 
 I'm a self-made millionaire. Thug living out of prison, pistols in the air.
